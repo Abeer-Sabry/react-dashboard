@@ -10,5 +10,16 @@ body {
 *{
   padding: 0 ;
   margin: 0 ;
-  box-sizing: border-box ;
+  box-sizing: border-box ;    
 }
+ul,li{
+  list-style: none;
+}
+
+:root{
+  --light-gray:rgb(247, 247, 247);
+  --dark-gray:#555;
+  --gray:rgb(160, 160, 160);
+  --light-blue:rgb(230, 230, 255);
+}
+
